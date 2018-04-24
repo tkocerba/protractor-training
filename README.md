@@ -1,6 +1,6 @@
 # PROTRACTOR TRAINING
 
-## Before you will able to run this tests you have to pull repository. 
+### Before you will able to run this tests you have to pull repository. 
 
 If you want to start tests locally you have to:
 
